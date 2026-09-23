@@ -13,11 +13,11 @@ I have built some projects in private, and have (*in the moment*) one <a href='h
 
 ---
 # Fun facts:
-<ul>
- <li>I have a dog</li>
- <li>Love doing things while listening to music</li>
- <li>Hobbies: anime, Video-games, jigsaw puzzle</li>
-</ul>
+
+- I have a dog
+- Love doing things while listening to music
+- Hobbies: anime, Video-games, jigsaw puzzle
+
 
 <!--
 **DivineLynel/DivineLynel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
