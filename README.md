@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gabriel
+# Hi 👋, I'm <a href='mailto:gferreirac@gmail.com'>Gabriel</a>
 
 🚀 **Computer Science student | Python**  
 🇧🇷 Brazil
