@@ -1,6 +1,6 @@
 # Hi 👋, I'm <a href='mailto:gferreirac@gmail.com'>Gabriel</a>
 
-🚀 **Computer Science student | Python**  
+🚀 **Computer Science student | Python | HTML | CSS | SQL**  
 🇧🇷 Brazil
 
 I am looking always to improve and learn new things, never getting tired of it<br>
