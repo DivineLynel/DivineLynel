@@ -9,7 +9,7 @@ I know all the python fundamentals and now i am on my way to learn **DSA** and d
 
 I'm and probably still growing all my of problems solving skills in <a href='https://leetcode.com/u/DLynel/'>Leetcode</a> and <a href='https://github.com/DivineLynel/neetcode-submissions/tree/main/Data%20Structures%20%26%20Algorithms'>NeetCode</a><br>
 
-I have built some projects in private, and have (*in the moment*) two full projects for public.
+I have built some projects in private, and have some full projects for public.
 But if i was to the chose one favorite it would be <a href='https://github.com/DivineLynel/Real-Time-Virtual-Classroom'>  this one.</a>
 
 ---
